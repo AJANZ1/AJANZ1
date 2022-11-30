@@ -2,13 +2,13 @@
 
 <hr />
 
-<a href="www.linkedin.com/in/ajani-kehinde">
+<a target="_blank" href="www.linkedin.com/in/ajani-kehinde">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="ajanisubomi@gmail.com">
+<a target="_blank" href="ajanisubomi@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://mobile.twitter.com/ajk_szn">
+<a target="_blank" href="https://mobile.twitter.com/ajk_szn">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
