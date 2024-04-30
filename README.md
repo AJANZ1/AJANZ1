@@ -14,14 +14,14 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Front-end developer** with a bachelor's degree in Engineering. </br> </br>
+💻 I’m a **Data Analyst** with a bachelor's degree in Petroleum Engineering and knowledge of front-end tools. </br> </br>
 
-I am currently learning Javascript. </br> </br>
+I am currently creating case studies with newly acquired data anlysis skills. </br> </br>
 
 
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
+💬 Feel more than welcome to contact me if you need any help or want to discuss any of my projects </br></br>
    
- <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
+ <b><i>I truly believe that data has the power to change people's lives for the better. 
  
   <ul>
     <li> I enjoy reading. </li>
