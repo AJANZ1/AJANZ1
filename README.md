@@ -14,7 +14,7 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Data Analyst** with a bachelor's degree in Petroleum Engineering and knowledge of front-end tools. </br> </br>
+💻 I’m a **Data Analyst** with a bachelor's degree in Petroleum Engineering and a good knowledge of front-end tools. </br> </br>
 
 I am currently creating case studies with newly acquired data anlysis skills. </br> </br>
 
